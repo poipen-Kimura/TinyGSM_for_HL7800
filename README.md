@@ -1,3 +1,10 @@
+# Fork Description
+## Added partial support for HL7800.
+I used a HL7800-M for testing.
+I have confirmed that it works as an Arduino Client class and can be used with various MQTT client libraries.
+
+->>>>> Below is the original README.
+----
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 ![TinyGSM logo](https://cdn.rawgit.com/vshymanskyy/TinyGSM/d18e93dc51fe988a0b175aac647185457ef640b5/extras/logo.svg)
